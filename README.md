@@ -1,6 +1,6 @@
 <h1 align="center">Bank-Marketing-Effectiveness-Prediction</h1>
 
-<h3 align="center"> Google_Colab Link :- https://colab.research.google.com/drive/1ezBwEtMX5I4L_01MGYezRvuvGkEad4pW?usp=share_link</h3>
+<h4 align="center"> Colab Link :- https://colab.research.google.com/drive/1ezBwEtMX5I4L_01MGYezRvuvGkEad4pW?usp=share_link</h4>
 
 ![marketing-strategies-online-banking-experience](https://user-images.githubusercontent.com/121340232/225806989-08c95811-0c95-45e2-abac-fe6aedd1a4a4.jpg)
 
