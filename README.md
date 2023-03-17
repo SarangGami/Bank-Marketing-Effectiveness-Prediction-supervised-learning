@@ -175,7 +175,7 @@
 
 <BR/>
 
-### **click [here](https://colab.research.google.com/drive/1ezBwEtMX5I4L_01MGYezRvuvGkEad4pW?usp=share_link) To access the solution of the Capstone Project on Bank Marketing Effectiveness Prediction - Supervised Learning, which includes the usage of 6 different algorithms with detailed explanations and conclusions.**
+### **click [here](https://colab.research.google.com/drive/1ezBwEtMX5I4L_01MGYezRvuvGkEad4pW?usp=share_link) To access the solution of the Capstone Project on Bank Marketing Effectiveness Prediction Supervised Learning, which includes the usage of 6 different algorithms with detailed explanations and conclusions.**
 
 <BR/>
 
