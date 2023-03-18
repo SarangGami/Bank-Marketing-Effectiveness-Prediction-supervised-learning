@@ -140,7 +140,7 @@
 
 # **Best Models to Achieve our Objective :-**
 
-### 🥇 RandomForestRegressor with hyperparameter tuning 🥇
+### 🥇 RandomForestClassifier with hyperparameter tuning 🥇
 
 ![Screenshot 2023-03-16 095827](https://user-images.githubusercontent.com/121340232/225812323-32919939-980c-4b34-a870-970d4a0bb618.png)
 
