@@ -26,8 +26,8 @@
 
 ## **Dataset Info :-**
 
-* 1.Number of records: 45,211
-* 2.Number of features: 17
+* Number of records: 45,211
+* Number of features: 17
 
 
 ## **The dataset contains features like :-**
