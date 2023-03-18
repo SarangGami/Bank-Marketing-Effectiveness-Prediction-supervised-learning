@@ -101,6 +101,7 @@
 ```
       ▪ check Outliers
       ▪ features transformation
+      ▪ features construction
       ▪ features selection
 ```
 
